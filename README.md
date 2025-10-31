@@ -1,6 +1,3 @@
-<!--
-<img src=/tw-banner.gif alt='cover image' align='center'>
--->
 <p align="center">
   nocturnal developer 🦉 • open-source enthusiast 💕 • noob photographer 📷
   <br>
