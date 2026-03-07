@@ -1,5 +1,5 @@
 <p align="center">
-  nocturnal developer 🦉 • open-source enthusiast 💕 • noob photographer 📷
+  nocturnal dev • open-sourcerer • devops • homelabs
   <br>
   <a href='https://mrugesh.dev'>https://mrugesh.dev</a>
    • 
