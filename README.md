@@ -1,7 +1,7 @@
 <p align="center">
   dad • dev//ops • open-source
   <br>
-  Principal Maintainer — FOSS & Cloud Infra @ <a href='https://github.com/freeCodeCamp'>freeCodeCamp</a>
+  Principal Maintainer — Open Source & Infra @ <a href='https://github.com/freeCodeCamp'>freeCodeCamp</a>
   <br>  
   <a href='https://mrugesh.dev'>https://mrugesh.dev</a>
    • 
